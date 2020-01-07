@@ -38,7 +38,7 @@ cmake -G "Xcode" ..
 
 - **Open**
 
-<img src="https://tva1.sinaimg.cn/large/006tNbRwgy1gaod7ovo5aj31760qsn00.jpg" alt="image-20200107222628466" style="zoom:50%;" />
+<img src="https://github.com/oogh/FFMuxing/raw/master/images/01.jpg" alt="Open" style="zoom:50%;" />
 
 - **选择 CMakeLists.txt**
 
@@ -46,11 +46,11 @@ cmake -G "Xcode" ..
 
 - **Open As Project**
 
-<img src="https://tva1.sinaimg.cn/large/006tNbRwgy1gaodb9ru2lj30ps088jsx.jpg" alt="image-20200107222959951" style="zoom:50%;" />
+<img src="https://github.com/oogh/FFMuxing/raw/master/images/02.jpg" alt="Open As Project" style="zoom:50%;" />
 
 - **Reload CMake Project**
 
-<img src="https://tva1.sinaimg.cn/large/006tNbRwgy1gaodhus5ugj30p50cjtb3.jpg" alt="image-20200107223613753" style="zoom:50%;" />
+<img src="https://github.com/oogh/FFMuxing/raw/master/images/03.jpg" alt="Reload CMake Project" style="zoom:50%;" />
 
 - **运行即可**
 
